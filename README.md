@@ -40,6 +40,8 @@ git branch -M main
 git push -f origin main
 ```
 
+* https://docs.niryo.com/robots/
+
 * STEP 0 Unboxing : https://youtu.be/ijinVVn0aUE
 * STEP 1 Base : https://youtu.be/3f-Ecz0IYLY
 * STEP 2 Shoulder : https://youtu.be/f9BH28SffIw
